@@ -15,6 +15,8 @@ It draws a rotating 3D-style teapot using text characters and ANSI colors. Nothi
 - Colorful terminal output
 - FPS counter
 - Runs in Termux on Android
+I forgot say smth.
+I coming upload a new version of the teapot because this isn't neon teapot version + this is no vibecosed i'm promise of god.
 
 ## Running it
 
